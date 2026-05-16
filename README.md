@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**rajshekharthakurwork-bit/rajshekharthakurwork-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Data Science Student | Data Analyst
 
-Here are some ideas to get you started:
+I’m a 3rd year Data Science student solving business problems using rawdata, dashboards, and machine learning.
+From SQL queries and automation to Power BI dashboards and predictive models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analytics & Visualization
+🐍 Python | Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn
+🗄️ SQL | Snowflake 
+📈 Power BI | Excel
+🤖 Machine Learning + Data Engineering pipelines
+💡 Real-World Projects. Currently sharpening my skills in data analytics, data engineering and Machine learning.
+
